@@ -5,4 +5,7 @@
 <br>
 :fire: https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC 리드미 꾸미기 
 
-:fire: https://congsong.tistory.com/27 Thymeleaf Paging
+:fire: Thymeleaf Paging
+==========================================
+https://congsong.tistory.com/27
+https://ivvve.github.io/2019/01/13/java/Spring/pagination_4/
