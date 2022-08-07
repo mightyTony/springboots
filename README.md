@@ -14,3 +14,10 @@ https://ivvve.github.io/2019/01/13/java/Spring/pagination_4/
 ⭐ Thymeleaf Ajax
 =====================
 https://chaelin1211.github.io/study/2021/04/14/thymeleaf-ajax.html
+
+
+⭐ JPA Paging
+================
+https://wikidocs.net/162028
+<br>
+https://www.youtube.com/watch?v=STngVdFlCgg
