@@ -4,7 +4,7 @@
 :fire: 마크다운 사용법  https://gist.github.com/ihoneymon/652be052a0727ad59601 
 <br>
 :fire: 리드미 꾸미기  https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC 
-⭐ PathVariable : 유동적인 값을 매핑 주소에 쓰려고 할 때 참고 : https://byul91oh.tistory.com/435
+⭐ PathVariable Annotation : 유동적인 값을 매핑 주소에 쓰려고 할 때 참고 : https://byul91oh.tistory.com/435
 
 :fire: Thymeleaf Paging
 ==========================================
